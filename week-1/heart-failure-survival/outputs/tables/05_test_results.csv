@@ -1,0 +1,3 @@
+Model,Test C-index,CV C-index (mean),CV C-index (std)
+Cox PH,0.7244,0.7177,0.0651
+Random Survival Forest,0.7531,0.7237,0.045

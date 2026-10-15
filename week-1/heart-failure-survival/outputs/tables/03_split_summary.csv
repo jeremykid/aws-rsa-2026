@@ -1,0 +1,4 @@
+Split,N,Deaths,Death Rate
+Train,239,77,32.2%
+Test,60,19,31.7%
+Full,299,96,32.1%

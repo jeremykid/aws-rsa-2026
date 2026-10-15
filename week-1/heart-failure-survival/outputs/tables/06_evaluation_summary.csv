@@ -1,0 +1,3 @@
+Model,C-index ↑,IBS ↓,MAE-PO (days) ↓,D-cal χ²,D-cal p-value,D-cal (p>0.05?)
+Cox PH,0.7244,0.1574,77.42,166.37,0.0,✗
+RSF,0.7531,0.1555,79.06,120.465,0.0,✗
